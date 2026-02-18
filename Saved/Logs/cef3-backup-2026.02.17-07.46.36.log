@@ -1,0 +1,12 @@
+[3288:46560:0217/065249.829:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[3288:46560:0217/065249.962:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[57008:6420:0217/065254.892:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E908BA10600B2319AD24A61B50C91A95 will be ignored
+[3288:31772:0217/065255.469:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[3288:46560:0217/065255.567:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[3288:46560:0217/065255.567:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[3288:46560:0217/065255.568:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[3288:46560:0217/065255.568:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[3288:31772:0217/065255.595:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[3288:31772:0217/065257.682:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[3288:31772:0217/065258.098:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[3288:46560:0217/065315.234:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
