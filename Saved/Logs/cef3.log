@@ -1,15 +1,7 @@
-[25248:51856:0221/131554.799:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[25248:51856:0221/131555.895:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[60468:10560:0221/131604.388:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-CDD7135319843558F2E90196AEC3F9C8 will be ignored
-[25248:51856:0221/131604.620:ERROR:device_event_log_impl.cc(196)] [13:16:04.606] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[25248:46512:0221/131605.028:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[25248:51856:0221/131605.105:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[25248:51856:0221/131605.105:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[25248:51856:0221/131605.105:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[25248:51856:0221/131605.105:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[25248:46512:0221/131605.111:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[25248:51856:0221/131605.756:ERROR:extension_registrar.cc(549)] Failed to unregister service worker for extension fjoaledfpmneenckfbpdfhkmimnjocfa
-[25248:46512:0221/131606.289:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[25248:46512:0221/131607.687:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[52104:21288:0221/131811.670:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[52104:21288:0221/131811.670:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[40808:13156:0303/065631.948:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[40808:13156:0303/065632.099:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[40808:13156:0303/065638.833:ERROR:device_event_log_impl.cc(196)] [06:56:38.761] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[7416:38316:0303/065639.189:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-13E017084A6502FEEC4646E3B58C2E5C will be ignored
+[40808:7728:0303/065640.287:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[40808:7728:0303/065640.786:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[40808:13156:0303/083136.841:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

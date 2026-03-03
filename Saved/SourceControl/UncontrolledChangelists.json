@@ -6,6 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/tocho/Documents/Unreal Projects/CatfishGD2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/tocho/Documents/Unreal Projects/CatfishGD2/Content/Ferdifi/habitaciones_N2.umap",
+				"C:/Users/tocho/Documents/Unreal Projects/CatfishGD2/Content/sonidos/abrir_puerta.uasset",
+				"C:/Users/tocho/Documents/Unreal Projects/CatfishGD2/Content/sonidos/abrir_puerta_sotano.uasset",
+				"C:/Users/tocho/Documents/Unreal Projects/CatfishGD2/Content/sonidos/cerrar_puerta_de_golpe.uasset",
 				"C:/Users/fjriv/Documents/Unreal Projects/catfishgamedev-two/Content/Ferdifi/habitaciones_N2.umap"
 			]
 		}
